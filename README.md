@@ -47,7 +47,7 @@ Despite these vast differences and challenges, humanity has made remarkable stri
 
 #
 
-> ALex: "*This custom GPT is a working and valuable experiment which will be expanded.*"
+> Alex: "*This custom GPT is a working and valuable experiment which will be expanded.*"
 
 #
 ### Related Links
