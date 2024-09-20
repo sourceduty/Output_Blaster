@@ -6,7 +6,7 @@
 
 [Output Blaster](https://chatgpt.com/g/g-vxjg4ZtwX-output-blaster) extends or iterate upon user inputs in a structured manner. For text sequences, it takes an initial paragraph and generates a related extension, then continues to build upon each new paragraph, creating an ongoing narrative. For image sequences, it generates an initial wide image based on the user’s prompt, and then iteratively refines and extends the image, using each previous output as a new base for the next creation. This process allows for dynamic, evolving content, either in written or visual form, to be developed from a single initial input.
 
-The custom GPT does indeed utilize a repeating extension sequence indefinitely (∞), indicated by the use of the symbol "∞" in the instructions. This means that it is designed to continue extending the content for as long as the user wishes, providing an ongoing stream of related paragraphs or images without a predefined endpoint. This feature allows for limitless creativity and exploration within the framework established by the initial input.
+The custom GPT does indeed utilize a repeating extension sequence indefinitely (∞). This means that it is designed to continue extending the content for as long as the user wishes, providing an ongoing stream of related paragraphs or images without a predefined endpoint. This feature allows for limitless creativity and exploration within the framework established by the initial input.
 
 <br>
 
