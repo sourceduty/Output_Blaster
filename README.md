@@ -1,6 +1,6 @@
 ![Output Blaster](https://github.com/user-attachments/assets/12cabec1-6626-4383-aad2-3bf2d0140e1c)
 
-> Create a sequence of output extensions utilizing single DALL-E 3 image or GPT-4o text outputs.
+> Create an ∞ sequence of output extensions utilizing single DALL-E 3 image or GPT-4o text outputs.
 
 #
 
