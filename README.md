@@ -59,6 +59,10 @@ Despite these vast differences and challenges, humanity has made remarkable stri
 
 #
 
+![Infinity Caution](https://github.com/user-attachments/assets/7c5966ea-be50-4445-8e72-37ab84643eb7)
+
+#
+
 > Alex: "*This custom GPT is a working and valuable experiment.*"
 
 #
