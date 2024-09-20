@@ -47,6 +47,10 @@ Despite these vast differences and challenges, humanity has made remarkable stri
 
 #
 
+![Blasted](https://github.com/user-attachments/assets/8dfbd3ab-3018-4238-a0ab-b5b6bd1b972e)
+
+#
+
 > Alex: "*This custom GPT is a working and valuable experiment which will be expanded.*"
 
 #
