@@ -63,7 +63,7 @@ Despite these vast differences and challenges, humanity has made remarkable stri
 
 #
 
-![Einstein](https://github.com/user-attachments/assets/14864260-9c1f-4748-9a49-afe5ac42f546)
+![Einstein](https://github.com/user-attachments/assets/217dc64a-6891-4fe8-a8ca-136ee344d878)
 
 #
 
