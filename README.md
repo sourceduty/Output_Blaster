@@ -63,6 +63,10 @@ Despite these vast differences and challenges, humanity has made remarkable stri
 
 #
 
+![Einstein](https://github.com/user-attachments/assets/14864260-9c1f-4748-9a49-afe5ac42f546)
+
+#
+
 > Alex: "*This custom GPT is a working and valuable experiment.*"
 
 #
