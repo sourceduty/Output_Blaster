@@ -4,9 +4,9 @@
 
 #
 
-[Output Blaster](https://chatgpt.com/g/g-vxjg4ZtwX-output-blaster) utilizes user input, such as a paragraph or an image prompt, and extends it creatively and coherently through a sequence of iterations. When given a text input, Output Blaster analyzes the content and generates additional paragraphs, building on the themes, ideas, or narrative style of the original. Output Blaster repeats this process to create a cohesive flow of related paragraphs, each one expanding on the previous one. For image prompts, it generates a visual representation based on the input and then continues to transform and develop that image through multiple iterations, each new image building on the last to evolve the concept further.
+[Output Blaster](https://chatgpt.com/g/g-vxjg4ZtwX-output-blaster) extends or iterate upon user inputs in a structured manner. For text sequences, it takes an initial paragraph and generates a related extension, then continues to build upon each new paragraph, creating an ongoing narrative. For image sequences, it generates an initial wide image based on the user’s prompt, and then iteratively refines and extends the image, using each previous output as a new base for the next creation. This process allows for dynamic, evolving content, either in written or visual form, to be developed from a single initial input.
 
-This custom GPT uses a step-by-step approach to ensure that the user’s input is carefully analyzed and the output remains consistent with the initial vision. By providing structured, iterative responses, it aims to maintain coherence and relevance while progressively expanding on the original idea. This custom GPT excels at exploring and elaborating on creative concepts, making it a useful tool for users looking to develop narratives, visualize ideas, or simply explore a theme more deeply in a structured manner.
+The custom GPT does indeed utilize a repeating extension sequence indefinitely (∞), indicated by the use of the symbol "∞" in the instructions. This means that it is designed to continue extending the content for as long as the user wishes, providing an ongoing stream of related paragraphs or images without a predefined endpoint. This feature allows for limitless creativity and exploration within the framework established by the initial input.
 
 <br>
 
