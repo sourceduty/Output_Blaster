@@ -21,7 +21,7 @@ User Input
 │   ├── Generate Extension 2
 │   ├── Generate Extension 3
 │   ├── Generate Extension 4
-│   └── Continue repeating the extension sequence ∞.
+│   └── Continue repeating the extension sequence ∞
 │   └── Output Final Text
 │
 └── Image Sequence
@@ -30,7 +30,7 @@ User Input
     ├── Generate Image 2
     ├── Generate Image 3
     ├── Generate Image 4
-    └── Continue repeating the extension sequence ∞.
+    └── Continue repeating the extension sequence ∞
     └── Output Final Image
 ```
 
