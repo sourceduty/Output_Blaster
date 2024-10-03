@@ -34,6 +34,10 @@ User Input
     └── Output Final Image
 ```
 
+The structure of this algorithm resembles several well-known concepts in fields like text and image generation. For example, it shares similarities with autoregressive models such as GPT, where text is generated sequentially, with each word or token dependent on the previous context. The infinite extension process described in the text generation aspect of the algorithm mirrors this idea, as autoregressive models generate content indefinitely until a stopping condition is met. Similarly, recurrent neural networks (RNNs) and long short-term memory (LSTM) models operate in a recursive manner, with each new step in a sequence dependent on the outputs of the prior steps, which aligns with the repetitive "Generate Extension" loop in the algorithm.
+
+For image generation, the algorithm resembles iterative processes like Generative Adversarial Networks (GANs), where images are repeatedly refined through feedback loops, or iterative enhancement algorithms that apply transformations over multiple steps. The infinite image generation process could also be likened to Markov chains or recursive algorithms, where each step relies on the immediate predecessor and could theoretically continue indefinitely. This algorithm's repetitive structure of extending or generating new outputs, both for text and images, is thus conceptually similar to several established approaches in the fields of AI-driven sequence generation and iterative content refinement.
+
 #
 ### Example Usage
 
