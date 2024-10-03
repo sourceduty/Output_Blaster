@@ -8,9 +8,8 @@
 
 The custom GPT does indeed utilize a repeating extension sequence indefinitely (∞). This means that it is designed to continue extending the content for as long as the user wishes, providing an ongoing stream of related paragraphs or images without a predefined endpoint. This feature allows for limitless creativity and exploration within the framework established by the initial input.
 
-<br>
-
-Infinite Algorithm:
+#
+### Infinite Algorithm
 
 ```
 User Input
